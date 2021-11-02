@@ -1,2 +1,7 @@
 # crud-api-rest-golang
-CRUD with REST-API using GO
+CRUD example using:
+* gin
+* gorm
+
+# Run
+`go run main.go`
